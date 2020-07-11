@@ -15,13 +15,13 @@ As an example of the output of `OptMet`, some files are contained in this reposi
 
 The software performs an exhaustive search in the discretrized mass variable for each number of resonators, up to the maximum number. Therefore, the optimal mass is obtained for each of these number of resonators. The output of each of these sub-steps are stored in the folder `res`. For example, for 4 resonators:
 
-![Optimal mass](/res/NRes_4.pdf)
-<object data="/res/NRes_4.pdf" type="/res/NRes_4.pdf" width="700px" height="700px">
-    <embed src="/res/NRes_4.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-![Image Title](/res/NRes_4.pdf){width=75%}
+![Optimal mass](https://github.com/scanteroch/OptMet/blob/master/res/N_res4.pdf)
+
+
+<embed src="https://github.com/scanteroch/OptMet/blob/master/res/N_res4.pdf" width="500" height="375">
+
+<object src="https://github.com/scanteroch/OptMet/blob/master/res/N_res4.pdf" width="500" height="375" 
+ type="application/pdf">
 
 ## References
 
