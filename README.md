@@ -17,6 +17,14 @@ The software performs an exhaustive search in the discretrized mass variable for
 
 <img src="https://github.com/scanteroch/OptMet/blob/master/example_png/N_res4.png" alt="drawing" width="600"/>
 
+In this case, the optimal design using the robust objective function (solid line) provides a different optimal value of the mass percentage with respect to the expectation alone (dashed line), which highlights the relevance of the robust optimal design. This robust design avoids optimal designs which, in average, the performance function is optimized but are highly prone to uncertainties.
+
+Finally, once the algorithm searches over the provided set of possible number of resnoators, the final optimal design, considering cost-related aspects, uncertainties, and performance is provided as follows:
+
+<img src="https://github.com/scanteroch/OptMet/blob/master/example_png/OptDesign.png" alt="drawing" width="600"/>
+
+Here, the optimal design would be having 5 resonators with a mass percentage of 95% of the mass of the beam.
+
 ## References
 
 The `OptMet` Matlab-based software is based on the following references:
